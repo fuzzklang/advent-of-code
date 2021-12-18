@@ -1,6 +1,6 @@
 # README
 
-Solutions for **Advent of Code 2020**
+Solutions for **Advent of Code**
 written in Python3
 
 <https://adventofcode.com/>
